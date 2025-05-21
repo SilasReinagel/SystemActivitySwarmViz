@@ -1,0 +1,7 @@
+name: SiteTemplate2025
+description: A modern, lightweight single-page landing website template built with Bun, Vite, TypeScript, React, and Tailwind CSS.
+usage: Create a new repository from this template to quickly spin up a landing page website.
+about: This template provides a set of responsive, customizable components for creating landing pages.
+
+configuration:
+  is_template: true 
